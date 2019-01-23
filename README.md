@@ -9,7 +9,7 @@ requires Python3, Python SlackClient
 ```pip3 install slackclient```
 
 Setup:
-You will need to update the file with a Slack API key
+You will need to update the monitor.py file with a valid Slack API key; get that from Slack somewhere.
 
 Just run with:
 ```python3 monitor.py```
