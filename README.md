@@ -1,7 +1,7 @@
 # iMessage2Slack
 Forward iMessages from OSX to Slack
 
-## DEDICATED TO AYSHA
+## DEDICATED TO AYSHA :heart:
 
 requires Python3, SlackClient
 
