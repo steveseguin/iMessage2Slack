@@ -17,4 +17,5 @@ Once running, it should push all new messages to your slack channel as they come
 
 # notes
 Doesn't work with images and such yet; needs more development to do that. Please feel free to contribute
+
 iMessage on OSX needs to be working and setup for this to work -- this will be very hard to get working on a hackintosh as a result.
