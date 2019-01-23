@@ -6,6 +6,7 @@ Code is easily to modify -- extend it to work with SMS, email, and chatbots.
 ## DEDICATED TO AYSHA :heart:
 
 requires Python3, Python SlackClient
+```pip3 install slackclient```
 
 Setup:
 You will need to update the file with a Slack API key
