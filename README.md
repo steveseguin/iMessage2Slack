@@ -1,7 +1,7 @@
 # iMessage2Slack
 Forward iMessages from OSX to Slack -- use iMessage on Android!
 
-Code is easily to modify -- extend it to work with SMS, email, and chatbots.
+Code is easy to modify -- extend it to work with SMS, email, and chatbots.
 
 ## DEDICATED TO AYSHA :heart:
 
