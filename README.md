@@ -21,5 +21,5 @@ Doesn't work with images and such yet; needs more development to do that. Please
 
 iMessage on OSX needs to be working and setup for this to work -- this will be very hard to get working on a hackintosh as a result.
 
-# example of output
+## example of output
 ![alt text](https://raw.githubusercontent.com/steveseguin/iMessage2Slack/master/example.png)
