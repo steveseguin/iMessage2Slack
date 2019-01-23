@@ -9,7 +9,7 @@ Setup:
 You will need to update the file with a Slack API key
 
 Just run with:
-python3 monitor.py
+  python3 monitor.py
 
 Should push all messages to your slack channel.
 
