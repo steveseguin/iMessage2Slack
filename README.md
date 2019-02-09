@@ -3,7 +3,7 @@ Forward iMessages from OSX to Slack -- use iMessage on Android!
 
 Code is easy to modify -- extend it to work with SMS, email, and chatbots.
 
-## DEDICATED TO AYSHA :heart:
+## dedicated to Aysha
 
 requires Python3, Python SlackClient
 ```pip3 install slackclient```
