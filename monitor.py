@@ -1,7 +1,5 @@
 # pip install slackclient
 
-from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
-import imessage
 from slackclient import SlackClient
 import os
 import threading
@@ -53,13 +51,13 @@ def loop_check():
 				sc.api_call(
 				"chat.postMessage",
 				channel="iMessage",
-				text="Me: "+msg[2].encode('utf-8', 'xmlcharrefreplace')
+				text="Me: "+msg[2]
 				)
 			else:
 				sc.api_call(
 				"chat.postMessage",
 				channel="iMessage",
-				text=msg[-5].encode('utf-8', 'xmlcharrefreplace')+": "+msg[2].encode('utf-8', 'xmlcharrefreplace')
+				text=msg[-5]+": "+msg[2]
 				)
 		time.sleep(2) ## CHECK EVERY COUPLE SECONDS
 		try:
